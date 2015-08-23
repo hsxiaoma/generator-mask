@@ -4,7 +4,7 @@
  */
 /**
  * KISSY.use('<%= packageName %>/pages/home/index',function(S,Home){
- *		new Home();
+ *		Home.init({});
  * });
  */
 KISSY.add(function (S, require, exports, module) {
@@ -16,6 +16,11 @@ KISSY.add(function (S, require, exports, module) {
 	 * Home.init({
 	 *		// Key: Value 形式的参数
 	 * })
+	 * */
+
+	/*
+	 * // 引用外部模块的例子
+	 * var ExtMod = require('../../widgets/ext-mod/index');
 	 * */
 	var Home = {
 		init:function(opt){

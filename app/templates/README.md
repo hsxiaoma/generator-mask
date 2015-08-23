@@ -1,23 +1,19 @@
-## h5-test 项目文档
+## <%= packageName %> 项目文档
 
-- 创建者: 拔赤
-- 创建者Email: jay.li@alibaba-inc.com
-- 项目地址: http://gitlab.alibaba-inc.com/trip/h5-test
+- 创建者: <%= author %>
+- 创建者Email: <%= email %>
 
-Demo 启动
+> 需要先安装本地服务`npm install -g here-ssi`
 
-	grunt demo
+在项目根目录启动服务
 
-离线包构建参数修改：修改`abc.json`里的basePath和baseUrl，确保构建的`cache_info.json`正确。在项目根目录执行make.sh，make.sh里的内容，参照注释修改
+	here
 
-离线包的在线调试：
+访问源码：`src/pages/home/index.html`
 
-	grunt offline
+构建：
 
-在线包调试：
+	grunt
 
-	grunt online
+访问构建完成的目标代码：`src/pages/home/index.html`
 
-命令帮助:`yo clam:h`
-
-### changeLog
