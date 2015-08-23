@@ -24,7 +24,7 @@ by 拔赤 bachi@taobao.com
 
 ### KISSY MINI 项目代码脚手架工具
 
-<img src="http://gw.alicdn.com/tps/TB13sGbJXXXXXbaXVXXXXXXXXXX-360-196.png" width="200" />
+<img src="https://gw.alicdn.com/tps/TB1TOjrJXXXXXbbXVXXXXXXXXXX-1154-502.png_600x600.jpg" width="300" />
 
 [KISSY MINI](http://m.kissyui.com) 模块生成脚手架工具，KISSY MINI 的模块是基于 bower 的模块包，原则上不支持线上地址直接引用，而是推荐通过 bower insall 的方式安装引用。这里的脚手架工具即是生成这个 bower 模块包的脚手架工具。
 
