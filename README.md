@@ -1,25 +1,25 @@
-## generator-xapp
+## generator-mask
 
 by 拔赤 bachi@taobao.com
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
-[![Coverage Status](https://coveralls.io/repos/jayli/generator-xapp/badge.svg?branch=master&service=github)](https://coveralls.io/github/jayli/generator-xapp?branch=master)
+[![Coverage Status](https://coveralls.io/repos/jayli/generator-mask/badge.svg?branch=master&service=github)](https://coveralls.io/github/jayli/generator-mask?branch=master)
 [![node version][node-image]][node-url]
 [![npm download][npm-download]][download-url]
 
-[![generator-mpi](https://nodei.co/npm/generator-xapp.png)](https://npmjs.org/package/generator-xapp)
+[![generator-mpi](https://nodei.co/npm/generator-mask.png)](https://npmjs.org/package/generator-mask)
 
-[npm-image]: http://img.shields.io/npm/v/generator-xapp.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/generator-xapp
-[bower-image]: http://img.shields.io/bower/v/generator-xapp.svg?style=flat-square
-[bower-url]: https://github.com/jayli/generator-xapp
-[travis-image]: https://img.shields.io/travis/jayli/generator-xapp.svg?style=flat-square
-[travis-url]: https://travis-ci.org/jayli/generator-xapp
+[npm-image]: http://img.shields.io/npm/v/generator-mask.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/generator-mask
+[bower-image]: http://img.shields.io/bower/v/generator-mask.svg?style=flat-square
+[bower-url]: https://github.com/jayli/generator-mask
+[travis-image]: https://img.shields.io/travis/jayli/generator-mask.svg?style=flat-square
+[travis-url]: https://travis-ci.org/jayli/generator-mask
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.12-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
-[npm-download]: https://img.shields.io/npm/dm/generator-xapp.svg?style=flat-square
-[download-url]: https://npmjs.org/package/generator-xapp
+[npm-download]: https://img.shields.io/npm/dm/generator-mask.svg?style=flat-square
+[download-url]: https://npmjs.org/package/generator-mask
 
 
 ### KISSY MINI 项目代码脚手架工具

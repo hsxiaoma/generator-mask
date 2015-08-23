@@ -1,13 +1,13 @@
 {
-  "name": "generator-xapp",
+  "name": "generator-mask",
   "version": "0.1.0",
   "description": "KISSY MINI 项目生成脚手架",
   "keywords": [
     "yeoman-generator",
     "generator-mini"
   ],
-  "homepage": "https://github.com/jayli/generator-xapp",
-  "bugs": "https://github.com/jayli/generator-xapp/issues",
+  "homepage": "https://github.com/jayli/generator-mask",
+  "bugs": "https://github.com/jayli/generator-mask/issues",
   "authors": [
     {
       "name": "bachi",
@@ -19,7 +19,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-	"url": "git@github.com:jayli/generator-xapp.git"
+	"url": "git@github.com:jayli/generator-mask.git"
   },
   "scripts": {
     "test": "mocha"
