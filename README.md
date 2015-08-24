@@ -1,4 +1,4 @@
-## generator-mask
+## [generator-mask](https://github.com/jayli/generator-mask)
 
 <img src="https://gw.alicdn.com/tps/TB1K4zwJXXXXXXwaXXXXXXXXXXX-1178-454.png_600x600.jpg" width="400" />
 
@@ -22,7 +22,6 @@ by 拔赤 bachi@taobao.com
 [node-url]: http://nodejs.org/download/
 [npm-download]: https://img.shields.io/npm/dm/generator-mask.svg?style=flat-square
 [download-url]: https://npmjs.org/package/generator-mask
-
 
 ### Generator-Mask 工具简介
 
