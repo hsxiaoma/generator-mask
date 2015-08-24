@@ -245,6 +245,7 @@ MyGenerator.prototype.app = function app() {
 
 	// 生成grunt的bower文件
 	this.copy('grunt/bower.json');
+	this.copy('grunt/custom/domman.js');
 
 	// 初始化mod
 	this.template('src/mods/header.html');
