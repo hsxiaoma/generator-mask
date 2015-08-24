@@ -82,7 +82,7 @@ Generator-Mask 是 Generator-clam 简化开源版本，设计原理完全一致�
 
 我们始终将项目代码分割为三个部分：pages（页面）、mods（业务公用逻辑）、widgets（组件），其中 widgets 中推荐存放外部依赖的模块，通过 `bower install` 来安装，其中`src/widgets/bower.json`中带有组件安装源的配置，这个配置是通过`yo mask`初始化时输入的。
 
-此外，若要获得可发布代码，则将`src/`目录中的源码构建到`build/`目录中，构建脚本参照项目根目录下的`Gruntfile.js`，其中构建任务配置详情均存放在grunt/default/`目录中。
+此外，若要获得可发布代码，则将`src/`目录中的源码构建到`build/`目录中，构建脚本参照项目根目录下的`Gruntfile.js`，其中构建任务配置详情均存放在`grunt/default/`目录中。
 
 ### 运行 hello world
 
