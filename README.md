@@ -61,19 +61,19 @@ Generator-Mask 是 Generator-clam 简化开源版本，设计原理完全一致�
 	├── build/					构建目录
 	├── doc/					文档存放目录
 	├── grunt/					各构建任务脚本
-	│	├── bower.json			各构建任务脚本安装配置
-	│	├── custom/*.js			自定义任务
+	│   ├── bower.json			各构建任务脚本安装配置
+	│   ├── custom/*.js			自定义任务
 	│   └── default/*.js		默认任务
 	└── src/					源码目录
 		├── config.js			项目config.js
 		├── mods/				业务公用模块目录
 		│   └── header.html		公用头
 		├── widgets/ 			组件目录
-		│	├── bower.json		组件安装源配置(gitlab or github)
-		│	├── cssreset/		Cssrest 种子
-		│	│	└── reset.css
-		│	└── kissymini/		Kissymini 种子
-		│		└── build/mini-min.js
+		│   ├── bower.json		组件安装源配置(gitlab or github)
+		│   ├── cssreset/		Cssrest 种子
+		│   │   └── reset.css
+		│   └── kissymini/		Kissymini 种子
+		│       └── build/mini-min.js
 		└── pages/				页面目录		 
 			└── home/			Home 页面目录
 				├── index.js	Home 下辖的js文件
