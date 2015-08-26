@@ -18,8 +18,8 @@
     "tests"
   ],
   "dependencies": {
-    "kissymini": "kissymini#1.0.0",
-    "cssreset": "cssreset#1.0.0"
+    "kissymini": "kissymini#latest",
+    "cssreset": "cssreset#latest"
   }
 }
 

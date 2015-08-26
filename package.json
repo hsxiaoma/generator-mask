@@ -1,6 +1,6 @@
 {
   "name": "generator-mask",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "KISSY MINI 项目生成脚手架",
   "keywords": [
     "yeoman-generator",
